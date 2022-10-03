@@ -94,3 +94,7 @@ h4 {
   color: #fff; /* Цвет текста */
   width: auto; 
 }
+
+textarea {
+  resize: none;
+}
