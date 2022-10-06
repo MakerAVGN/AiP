@@ -98,3 +98,24 @@ h4 {
 textarea {
   resize: none;
 }
+
+.images{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#logo{
+  position:relative;
+  left: 50%;
+  transform: translate(-50%);
+}
+.ST table {
+  border: 1px solid black;
+  width: 100%;
+}
