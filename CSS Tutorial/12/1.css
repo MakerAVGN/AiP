@@ -1,0 +1,13 @@
+div{
+    color: red;
+    background-color: black;
+}
+span{
+    text-transform: uppercase;
+    color: green;
+}
+
+.purple{
+    color: purple;
+    background-color: white;
+}
