@@ -1,0 +1,22 @@
+#first {
+    color: rgb(255, 0, 0);
+    background-color: rgba(0, 0, 0, 1);
+}
+
+#second {
+    color: rgb(128, 0, 128);
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#thirth {
+    color: rgb(200, 100, 235);
+    background: rgba(100, 100, 100, 1);
+}
+
+#fourth{
+    color: brown;
+    background: rgba(15, 30, 246, 0.2);
+}
+body {
+    background: rgba(100, 34, 246, 0.95);
+}
