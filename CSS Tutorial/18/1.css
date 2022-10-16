@@ -1,0 +1,23 @@
+#first {
+    color: #83C9F4;
+    background-color: hsl(238,52%,63%);
+}
+
+#second {
+    color: #800080;
+    background-color: hsla(0, 0%, 100%, 0.5);
+}
+
+#thirth {
+    color: #c864eb;
+    background: hsl(0, 0%, 39%);
+}
+
+#fourth {
+    color: #a52a2a;
+    background: hsla(236, 93%, 51%, 0.2);
+}
+
+body {
+    background: hsla(259, 92%, 55%, 0.95);
+}

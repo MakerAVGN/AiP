@@ -1,0 +1,12 @@
+.green{
+ color: green;
+}
+.yellow{
+    color: yellow;
+}
+#title{
+    font-size: 60px;
+}
+.lowercase{
+    text-transform: lowercase;
+}
