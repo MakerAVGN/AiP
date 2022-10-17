@@ -1,0 +1,12 @@
+.relative{
+   font-size: 2em;
+}
+.absolute{
+    font-size: 32px;
+}
+.first{
+    font-size:  2em; /* задает размер относительно других шрифтов*/
+}
+div{
+    font-size: 10px;
+}

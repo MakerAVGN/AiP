@@ -1,0 +1,6 @@
+h1{
+    font-size: 60px; /* Размер букв */
+    width: 100%; /*длинна */
+    height: 200px; /* высота */
+    background: rgb(5, 240, 10);
+}
