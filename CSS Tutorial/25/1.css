@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Caveat&display=swap');
+
+body {
+    font-family: monospace;
+    font-weight: 700;
+}
+
+h1 {
+    font-family: 'Caveat', cursive;
+
+}
+
+p {
+    font-family: 'Calligraffitti', cursive;
+    font-size: 50px;
+}
+.one{
+    font-weight: 400;
+}
+
+.two{
+    font-weight: 900;
+}
+
+.three{
+    font-weight: bold;
+}
+
+.fourth{
+     font-weight: lighter;
+}
