@@ -1,0 +1,16 @@
+    h1 {
+        background: red;
+        font-size: 100px;
+        margin-bottom: 0;
+        padding-left: 35%;
+    }
+
+    p {
+        height: 100vh;
+        background-color: hsl(240, 71%, 60%);
+        font-size: 100px;
+        margin-top: 0;
+        padding: 10px;
+        padding-left: 20px;
+        margin-bottom: 0px;
+    }
