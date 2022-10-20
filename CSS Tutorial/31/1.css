@@ -1,0 +1,24 @@
+    h1 {
+        background: red;
+        font-size: 100px;
+        margin: 20px 10px 10px 20px;
+        padding-left: 40%;
+        border: solid;
+        border-width: 15px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        border-color: pink;
+        border-radius: 50px;
+    }
+
+    p {
+        background-color: hsl(240, 71%, 60%);
+        font-size: 50px;
+        padding: 10px;
+        padding-left: 20px;
+        margin: 50px 30px 30px;
+        border: 15px solid green;
+        border-bottom-style: dashed;
+        border-radius: 50%;
+        margin-top: -100px;
+    }

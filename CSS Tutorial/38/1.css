@@ -1,0 +1,16 @@
+div {
+    height: 500px;
+    color: white;
+}
+
+.big-img {
+    background: url("2.jpg");
+}
+
+.small-img {
+    background: url("1.jpg");
+}
+
+.folder-img {
+    background: url("3i.jpg");
+}
